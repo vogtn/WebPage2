@@ -5,7 +5,7 @@
  */
  setTimeout(function() {
     $('#h1').addClass('fadeIn');
-}, 4000);
+}, 3000);
 
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
