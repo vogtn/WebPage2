@@ -22,3 +22,6 @@
   opacity: 1;
   right: 0;
 }
+.well{
+  border-radius: 50px;
+}
