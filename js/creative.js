@@ -44,5 +44,8 @@
 
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
+    setTimeout(function() {
+       $('#h1').addClass('fadeIn');
+   }, 3000);
 
 })(jQuery); // End of use strict
