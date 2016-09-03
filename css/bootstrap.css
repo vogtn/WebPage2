@@ -6580,4 +6580,7 @@ button.close {
 .hvr-grow:active {
     transform: scale(1.1);
 }
+.well{
+  border-radius: 40px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
